@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoEditor</string>
+    <string name="network_error_title">Hata</string>
+    <string name="network_error_message">İnternet bağlantınızı kontrol ediniz.</string>
+    <string name="done_button">Tamam</string>
+    <string name="close_app_warning_title">Uyarı</string>
+    <string name="close_app_warning_message">Değişikliklerden vazgeç?</string>
+    <string name="negative_button">İptal</string>
+</resources>
